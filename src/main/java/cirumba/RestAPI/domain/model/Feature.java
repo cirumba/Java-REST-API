@@ -1,4 +1,8 @@
 package cirumba.RestAPI.domain.model;
 
-public class Feature {
+import jakarta.persistence.Entity;
+
+@Entity(name = "tb_feature")
+public class Feature extends BaseItem {
+
 }
