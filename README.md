@@ -6,7 +6,7 @@ RESTful API construída em Java 17 com Spring Boot 3.
 - **Java 17**
 - **Spring Boot 3**
 - **Spring Data JPA**
-- **OpenAPI (Swagger)**
+- **OpenAPI (Swagger): https://github.com/springdoc/springdoc-openapi**
 - **Railway**
 
 ## Diagrama de Classes (Domínio da API)
